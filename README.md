@@ -7,7 +7,7 @@
 
 ## AI Engineer | FastAPI | LLMs | Generative Video | AI Agents | Data Science | Data Analyst | MLOps
 
-
+---
 
 ## What I Do
 - Build reliable, production-ready AI systems and automation pipelines  
@@ -17,7 +17,7 @@
 - Create tools for generative video, OCR/vision pipelines, analytics, and model orchestration  
 - Optimize async deployments and scalable architectures for high-throughput inference
 
-
+---
 
 ## Tools & Technologies I Use Daily
 (Condensed from my resume – practical, daily tools and libs.)  
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,java,c,fastapi,streamlit,pytorch,tensorflow,sklearn,git,github,mongodb,postgres,sqlite,html,css,selenium,opencv,ffmpeg&perline=10" />
 </p>
 
-
+---
 
 ## My Core Strengths
 - Architecting and shipping end-to-end AI systems from data ingestion to production inference  
@@ -43,7 +43,7 @@
 - Multimodal & generative systems: video pipelines, voice cloning, lip-sync, and captioning stacks  
 - Converting research prototypes into robust, maintainable production code
 
-
+---
 
 ## My Working Philosophy
 > I build practical AI systems that solve real user problems — not demos. I prioritize reproducibility, observability, and scalable patterns so research-grade models become reliable production services.
