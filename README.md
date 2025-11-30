@@ -26,9 +26,9 @@ I build **production-ready AI systems**, scalable FastAPI services, and agentic 
 - **ML / DL:** PyTorch, TensorFlow, scikit-learn, SentenceTransformers  
 - **Vision / OCR / Media:** PaddleOCR, PyMuPDF, PDFPlumber, OpenCV, FFmpeg  
 - **Databases:** MongoDB, Postgres, SQLite  
-- **Data / Infra:** Pandas, NumPy, Docker, Git, Linux  
+- **Infra / Data:** Pandas, NumPy, Docker, Git, Linux  
 - **RAG & LLMs:** OpenAI API, Ollama, Pinecone, FAISS  
-- **Scraping / Utils:** BeautifulSoup, Selenium, requests  
+- **Scraping / Utils:** Selenium, BeautifulSoup, requests  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,c,fastapi,streamlit,pytorch,tensorflow,sklearn,git,github,mongodb,postgres,sqlite,html,css,selenium,opencv,ffmpeg&perline=10" />
@@ -38,41 +38,84 @@ I build **production-ready AI systems**, scalable FastAPI services, and agentic 
 
 ## 💡 Core Strengths  
 - Architecting AI systems from ingestion → inference  
-- Building scalable FastAPI microservices  
 - Designing RAG and multimodal reasoning pipelines  
-- Production-grade async pipelines and orchestration  
-- Turning research prototypes into stable systems  
+- Building scalable FastAPI microservices  
+- Production-grade async pipelines  
+- Converting research POCs into stable, maintained systems  
 
 ---
 
-## 🧠 My Engineering Philosophy  
+## 🧠 Philosophy  
 > Build **useful AI**, not demos.  
-> Prioritize **scalability, reproducibility, observability**, and clean abstractions.
+> Prioritize **scalability, reproducibility, observability.**
 
 ---
 
-## 📌 Pinned Repositories  
+# 📌 Pinned Repositories  
 
 <p align="center">
-  <a href="https://github.com/HarshilForWork/AI-Agents">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshilForWork&repo=AI-Agents&theme=tokyonight" />
+
+  <a href="https://github.com/HarshilForWork/CO-CODE_Project_JBBR">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshilForWork&repo=CO-CODE_Project_JBBR&theme=tokyonight" />
   </a>
-  <a href="https://github.com/HarshilForWork/FastAPI-LLM-Backend">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshilForWork&repo=FastAPI-LLM-Backend&theme=tokyonight" />
+
+  <a href="https://github.com/HarshilForWork/Recursion_6.0_JBBR">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshilForWork&repo=Recursion_6.0_JBBR&theme=tokyonight" />
   </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/JayGuri/JBBR_LOC7">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayGuri&repo=JBBR_LOC7&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/sakshat193/dataquest_JBBR">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sakshat193&repo=dataquest_JBBR&theme=tokyonight" />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/HarshilForWork/JBBR-Backend">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshilForWork&repo=JBBR-Backend&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/HarshilForWork/MumbaiHacksJbbr">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshilForWork&repo=MumbaiHacksJbbr&theme=tokyonight" />
+  </a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats (BREAK-PROOF VERSION)
+
+### ✔ Always loads  
+### ✔ Never rate-limited  
+### ✔ No broken images EVER  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarshilForWork&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=HarshilForWork&theme=tokyonight" />
+
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/badge/Total%20Commits-180-blue?style=for-the-badge&logo=github" />
+
+  <!-- Current Streak -->
+  <img src="https://img.shields.io/badge/Current%20Streak-1-purple?style=for-the-badge&logo=github" />
+
+  <!-- Longest Streak -->
+  <img src="https://img.shields.io/badge/Longest%20Streak-4-blueviolet?style=for-the-badge&logo=github" />
+
 </p>
 
+---
+
+# 📈 Profile Summary Card (Stable)
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilForWork&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshilForWork&theme=tokyonight" />
 </p>
 
 ---
