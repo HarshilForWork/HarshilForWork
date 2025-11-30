@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=3BB1F7&center=true&vCenter=true&width=900&lines=Hi+I'm+Harshil+Bhanushali;AI+Engineer+%7C+FastAPI+%7C+LLMs+%7C+MLOps;AI+Agents+%7C+Data+Science+%7C+Data+Analyst" />
 </p>
 
-<h2 align="center">AI Engineer | FastAPI | LLMs | Generative Video | AI Agents | MLOps</h2>
+<h2 align="center">AI Engineer | FastAPI | LLMs | Generative AI | AI Agents | MLOps</h2>
 
 ---
 
