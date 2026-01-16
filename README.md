@@ -47,7 +47,7 @@ I build production-ready AI systems, scalable FastAPI services, and agentic LLM 
 
 ## Philosophy  
 
-Build usable, reproducible, scalable AI systems with clear abstractions and observability.
+Every bug is a new feature.
 
 ---
 
